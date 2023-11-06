@@ -42,7 +42,6 @@ public class TI_RegulerMalam_22205048_latihan17 {
         System.out.println("Gaji Pokok : " + gajiPokok);
         System.out.println("Tunjangan : " + tunjangan);
         System.out.println("Gaji Total : " + hitungTotalGaji(gajiPokok, tunjangan));
-         // Developed by Aenun Akhkam
         System.out.println("Devaloped By : Moch puga hilal bayhaqie");
         scanner.close();
     }
